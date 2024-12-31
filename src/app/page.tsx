@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { Button, Flex, Input } from "antd";
 
 export default function Home() {
   return (
